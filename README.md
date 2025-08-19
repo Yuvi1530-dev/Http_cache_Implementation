@@ -4,7 +4,9 @@ This repository demonstrates how to boost Angular app performance by implementin
 
 Feature:
 1.Faster load times → avoids duplicate API calls
+
 2.Reduced server load → fewer hits on your backend
+
 3.Configurable TTL (Time-to-Live) → auto-expire old cache entries
 4.Per-request control → skip caching by adding a custom header (x-cache: no-cache)
 5.Cache keys → based on request URL + query params
